@@ -1,1 +1,1 @@
-![](alien-space.jpg)
+![](alien-space.png)
