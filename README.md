@@ -1,1 +1,1 @@
-![](space.png)
+![](astronaut.png)
